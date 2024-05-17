@@ -5,24 +5,16 @@ This is a website that I created to bring awareness to the amount of carbon emis
 
 It consists of a:
 Welcome page that shows you different environmental facts about the word
-Flying: It'll blow your mind
-A singular economy seat on a flight from Boston to Miami produces 580 kg of carbon.
-An Airbus A320, the most common commercial airliner, produces 89,992.73 kg of carbon on a flight from Boston to Miami.
-The global aviation industry produces about 2% of all human carbon emissions.
-Aviation makes up 12% of all transportation-related carbon emissions.
-Amazon Rain Forest see for yourself.
-The Amazon RainForest removes 2 billion tons of carbon from the atmosphere
-This is 5% of annual carbon emissions.
-The Amazon RainForest is vanishing by 20,000 square miles a year
-Meat: Checkmate
-Industrialized meat production is the greatest cause of deforestation in the world.
-Farmers in Brazil are purposefully burning down forests in order to build farms.
-Cows eat 16 pounds of vegetation in order to produce 1 pound of flesh.
-The energy consumed to produce one hamburger could drive a car for 20 miles.
-87% of agricultural land in the U.S is for raising animals.
-More than 80% of the corn we grow and 95% of oats are fed to livestock.
-You then have a button saying: go to calculate which takes you to the login/ registration page
-If you don;t have an account you would click the text link saying register where you would register your 
+such as how:
+- Industrialized meat production is the greatest cause of deforestation in the world.
+- Farmers in Brazil are purposefully burning down forests in order to build farms.
+- Cows eat 16 pounds of vegetation in order to produce 1 pound of flesh.
+- The energy consumed to produce one hamburger could drive a car for 20 miles.
+- 87% of agricultural land in the U.S is for raising animals.
+- More than 80% of the corn we grow and 95% of oats are fed to livestock.
+- You then have a button saying: go to calculate which takes you to the login/ registration page
+- etc..
+If you don't have an account you would click the text link saying register where you would register your 
 Name
 Email
 Password
